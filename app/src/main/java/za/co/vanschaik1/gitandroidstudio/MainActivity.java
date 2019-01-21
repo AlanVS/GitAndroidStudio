@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("AvS", "Message");
         Log.i("AvS", "Message");
 
+        Log.i("AvS", "My Message");
+
     }
 }
